@@ -1,6 +1,6 @@
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
-## NAME : DHARSHAN R
-## REG NO : 212224230060
+## NAME : THILLAI AJAY.L
+## REG NO : 212224040354
 # AIM:
 To design and implement a Library Management System that efficiently manages book records, student information, issue and return details, and automates library operations using a computer program.
 
